@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Practicas RouteMap\Recursion\bin\Debug\net6.0\Recursion.exe
+C:\Users\Usuario\Desktop\Practicas RouteMap\Recursion\bin\Debug\net6.0\Recursion.deps.json
+C:\Users\Usuario\Desktop\Practicas RouteMap\Recursion\bin\Debug\net6.0\Recursion.runtimeconfig.json
+C:\Users\Usuario\Desktop\Practicas RouteMap\Recursion\bin\Debug\net6.0\Recursion.dll
+C:\Users\Usuario\Desktop\Practicas RouteMap\Recursion\bin\Debug\net6.0\Recursion.pdb
+C:\Users\Usuario\Desktop\Practicas RouteMap\Recursion\obj\Debug\net6.0\Recursion.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Practicas RouteMap\Recursion\obj\Debug\net6.0\Recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Practicas RouteMap\Recursion\obj\Debug\net6.0\Recursion.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Practicas RouteMap\Recursion\obj\Debug\net6.0\Recursion.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Practicas RouteMap\Recursion\obj\Debug\net6.0\Recursion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Practicas RouteMap\Recursion\obj\Debug\net6.0\Recursion.dll
+C:\Users\Usuario\Desktop\Practicas RouteMap\Recursion\obj\Debug\net6.0\refint\Recursion.dll
+C:\Users\Usuario\Desktop\Practicas RouteMap\Recursion\obj\Debug\net6.0\Recursion.pdb
+C:\Users\Usuario\Desktop\Practicas RouteMap\Recursion\obj\Debug\net6.0\Recursion.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Practicas RouteMap\Recursion\obj\Debug\net6.0\ref\Recursion.dll

@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Practicas RouteMap\Colecciones2(Linkedlist)\Colecciones2(Linkedlist)\bin\Debug\net6.0\Colecciones2(Linkedlist).exe
+C:\Users\Usuario\Desktop\Practicas RouteMap\Colecciones2(Linkedlist)\Colecciones2(Linkedlist)\bin\Debug\net6.0\Colecciones2(Linkedlist).deps.json
+C:\Users\Usuario\Desktop\Practicas RouteMap\Colecciones2(Linkedlist)\Colecciones2(Linkedlist)\bin\Debug\net6.0\Colecciones2(Linkedlist).runtimeconfig.json
+C:\Users\Usuario\Desktop\Practicas RouteMap\Colecciones2(Linkedlist)\Colecciones2(Linkedlist)\bin\Debug\net6.0\Colecciones2(Linkedlist).dll
+C:\Users\Usuario\Desktop\Practicas RouteMap\Colecciones2(Linkedlist)\Colecciones2(Linkedlist)\bin\Debug\net6.0\Colecciones2(Linkedlist).pdb
+C:\Users\Usuario\Desktop\Practicas RouteMap\Colecciones2(Linkedlist)\Colecciones2(Linkedlist)\obj\Debug\net6.0\Colecciones2(Linkedlist).csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Practicas RouteMap\Colecciones2(Linkedlist)\Colecciones2(Linkedlist)\obj\Debug\net6.0\Colecciones2(Linkedlist).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Practicas RouteMap\Colecciones2(Linkedlist)\Colecciones2(Linkedlist)\obj\Debug\net6.0\Colecciones2(Linkedlist).AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Practicas RouteMap\Colecciones2(Linkedlist)\Colecciones2(Linkedlist)\obj\Debug\net6.0\Colecciones2(Linkedlist).AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Practicas RouteMap\Colecciones2(Linkedlist)\Colecciones2(Linkedlist)\obj\Debug\net6.0\Colecciones2(Linkedlist).csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Practicas RouteMap\Colecciones2(Linkedlist)\Colecciones2(Linkedlist)\obj\Debug\net6.0\Colecciones2(Linkedlist).dll
+C:\Users\Usuario\Desktop\Practicas RouteMap\Colecciones2(Linkedlist)\Colecciones2(Linkedlist)\obj\Debug\net6.0\refint\Colecciones2(Linkedlist).dll
+C:\Users\Usuario\Desktop\Practicas RouteMap\Colecciones2(Linkedlist)\Colecciones2(Linkedlist)\obj\Debug\net6.0\Colecciones2(Linkedlist).pdb
+C:\Users\Usuario\Desktop\Practicas RouteMap\Colecciones2(Linkedlist)\Colecciones2(Linkedlist)\obj\Debug\net6.0\Colecciones2(Linkedlist).genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Practicas RouteMap\Colecciones2(Linkedlist)\Colecciones2(Linkedlist)\obj\Debug\net6.0\ref\Colecciones2(Linkedlist).dll

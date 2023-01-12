@@ -1,0 +1,5 @@
+C:\Users\Usuario\Desktop\Practicas RouteMap\Wrapper\Wrapper\obj\Debug\net6.0\Wrapper.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Practicas RouteMap\Wrapper\Wrapper\obj\Debug\net6.0\Wrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Practicas RouteMap\Wrapper\Wrapper\obj\Debug\net6.0\Wrapper.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Practicas RouteMap\Wrapper\Wrapper\obj\Debug\net6.0\Wrapper.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Practicas RouteMap\Wrapper\Wrapper\obj\Debug\net6.0\Wrapper.csproj.CoreCompileInputs.cache

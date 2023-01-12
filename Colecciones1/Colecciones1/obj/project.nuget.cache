@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fsDF/eLTtoPJJHTLhq5ZDVXvmgcxu3SIQcHm4gPcm1H/WzO0OgUa+xoobP69XH5GDX5tDK/Mzrz3qlt1DKPZKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Practicas RouteMap\\Colecciones1\\Colecciones1\\Colecciones1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\nettopologysuite\\2.5.0\\nettopologysuite.2.5.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

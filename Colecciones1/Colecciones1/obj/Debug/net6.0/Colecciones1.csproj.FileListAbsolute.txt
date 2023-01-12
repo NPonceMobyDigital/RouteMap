@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\Practicas RouteMap\Colecciones1\Colecciones1\bin\Debug\net6.0\Colecciones1.exe
+C:\Users\Usuario\Desktop\Practicas RouteMap\Colecciones1\Colecciones1\bin\Debug\net6.0\Colecciones1.deps.json
+C:\Users\Usuario\Desktop\Practicas RouteMap\Colecciones1\Colecciones1\bin\Debug\net6.0\Colecciones1.runtimeconfig.json
+C:\Users\Usuario\Desktop\Practicas RouteMap\Colecciones1\Colecciones1\bin\Debug\net6.0\Colecciones1.dll
+C:\Users\Usuario\Desktop\Practicas RouteMap\Colecciones1\Colecciones1\bin\Debug\net6.0\Colecciones1.pdb
+C:\Users\Usuario\Desktop\Practicas RouteMap\Colecciones1\Colecciones1\obj\Debug\net6.0\Colecciones1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Practicas RouteMap\Colecciones1\Colecciones1\obj\Debug\net6.0\Colecciones1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Practicas RouteMap\Colecciones1\Colecciones1\obj\Debug\net6.0\Colecciones1.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Practicas RouteMap\Colecciones1\Colecciones1\obj\Debug\net6.0\Colecciones1.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Practicas RouteMap\Colecciones1\Colecciones1\obj\Debug\net6.0\Colecciones1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Practicas RouteMap\Colecciones1\Colecciones1\obj\Debug\net6.0\Colecciones1.dll
+C:\Users\Usuario\Desktop\Practicas RouteMap\Colecciones1\Colecciones1\obj\Debug\net6.0\refint\Colecciones1.dll
+C:\Users\Usuario\Desktop\Practicas RouteMap\Colecciones1\Colecciones1\obj\Debug\net6.0\Colecciones1.pdb
+C:\Users\Usuario\Desktop\Practicas RouteMap\Colecciones1\Colecciones1\obj\Debug\net6.0\Colecciones1.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Practicas RouteMap\Colecciones1\Colecciones1\obj\Debug\net6.0\ref\Colecciones1.dll
+C:\Users\Usuario\Desktop\Practicas RouteMap\Colecciones1\Colecciones1\bin\Debug\net6.0\NetTopologySuite.dll
+C:\Users\Usuario\Desktop\Practicas RouteMap\Colecciones1\Colecciones1\obj\Debug\net6.0\Colecciones1.csproj.CopyComplete
